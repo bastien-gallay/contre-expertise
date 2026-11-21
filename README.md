@@ -1,5 +1,15 @@
 # contre-expertise
 
+> [!IMPORTANT]
+> **This repository has moved.** `contre-expertise` now lives in the
+> [bastien-gallay/skills](https://github.com/bastien-gallay/skills/tree/main/plugins/contre-expertise) monorepo, under `plugins/contre-expertise/`, with its full
+> history. This repository is archived and read-only.
+
+```sh
+/plugin marketplace add bastien-gallay/skills
+/plugin install contre-expertise@skills
+```
+
 A [Claude Code](https://claude.com/claude-code) skill that runs a critical,
 sourced **counter-assessment of your own working method** — the way a
 judicial investigation treats a testimony, not the way a coach treats a
